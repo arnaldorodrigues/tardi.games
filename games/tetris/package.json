@@ -1,0 +1,16 @@
+{
+  "name": "tetris",
+  "version": "0.0.0",
+  "description": "Multiplayer battle tetris for the Tardi platform.",
+  "private": true,
+  "scripts": {
+    "build": "tardi-build",
+    "dev": "tardi-build dev"
+  },
+  "dependencies": {
+    "@juxhouse/tardi-core": "*"
+  },
+  "devDependencies": {
+    "@juxhouse/tardi-build": "*"
+  }
+}

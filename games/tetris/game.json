@@ -1,0 +1,8 @@
+{
+  "title": "Tardi Tetris",
+  "description": "Stack fast, clear rows, and bury your friends in garbage. Last well standing wins.",
+  "players": {
+    "min": 2,
+    "max": 4
+  }
+}
