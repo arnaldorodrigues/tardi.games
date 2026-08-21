@@ -5,7 +5,9 @@
   "private": true,
   "scripts": {
     "build": "tardi-build",
-    "dev": "tardi-build dev"
+    "dev": "tardi-build dev",
+    "test": "node test/rules.test.mjs",
+    "test:mutate": "node test/mutate.mjs"
   },
   "dependencies": {
     "@juxhouse/tardi-core": "*"
